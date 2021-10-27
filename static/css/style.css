@@ -1,0 +1,29 @@
+html    {
+    scroll-behavior: smooth;
+}
+
+body    {
+
+    background-color: #3e4863;
+    color: #ffffff;
+}
+
+.navbar  {
+
+    background-color: #3e4863;
+    color: #ff0000;
+
+}
+
+.list-group-item {
+
+    background-color: #3e4863;
+    color: #ffffff;
+
+}
+
+.jumbotron {
+    background-image: url("../images/nasa.jpg");
+    background-size: 100% 175%;
+    text-align: center;
+  }
